@@ -5,11 +5,10 @@
   font-weight:bold;
   color:white;
 }
-.margin{
-  font-family:Helvetica,sans-serif;
+a{
+  font-family:Helvetica, sans-serif;
   font-size:18px;
   color:white;
-  margin-bottom: 0.5cm;
 }
 h3{
   font-family:Helvetica,sans-serif;
